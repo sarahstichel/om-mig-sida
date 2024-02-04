@@ -1,7 +1,19 @@
 body {
     background-color: rgba(170, 236, 203, 0.837);
     font-family: 'Protest Revolution', sans-serif;
+    text-align: center;
 }
 h2 {
     font-size: 110%;
+}
+
+.intressen {
+    display: flex;
+}
+
+.ruta {
+    background-color: rgba(236, 203, 170, 0.818);
+    margin: 10px;
+    width: 33%;
+    border-style: solid;
 }
