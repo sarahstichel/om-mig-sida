@@ -1,6 +1,6 @@
 body {
     background-color: rgba(170, 236, 203, 0.837);
-    font-family: 'Protest Revolution', sans-serif;
+    font-family: 'Quicksand', sans-serif;
     text-align: center;
 }
 h2 {
@@ -16,4 +16,8 @@ h2 {
     margin: 10px;
     width: 33%;
     border-style: solid;
+}
+
+ul {
+    text-align: left;
 }
