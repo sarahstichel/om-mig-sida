@@ -14,10 +14,15 @@ h2 {
 .ruta {
     background-color: rgba(236, 203, 170, 0.818);
     margin: 10px;
-    width: 33%;
+    width: 40%;
     border-style: solid;
 }
 
 ul {
     text-align: left;
+}
+
+.bild {
+    width: 20%;
+    background-image: url(noter.jpg);
 }
