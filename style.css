@@ -2,6 +2,8 @@ body {
     background-color: rgba(170, 236, 203, 0.837);
     font-family: 'Quicksand', sans-serif;
     text-align: center;
+    display: flex;
+    flex-direction: column;
 }
 h2 {
     font-size: 110%;
@@ -25,4 +27,9 @@ ul {
 .bild {
     width: 20%;
     background-image: url(noter.jpg);
+}
+
+img {
+    width: 30%;
+    margin: auto;
 }
